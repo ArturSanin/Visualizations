@@ -12,7 +12,7 @@ plt.xlim(-6, 6)  # Sets the x limits of the axis.
 plt.ylim(-6, 6)  # Sets the y limits of the axis.
 plt.axvline(color="grey")  # Adds vertical line at (0, 0)
 plt.axhline(color="grey")  # Adds vertical line at (0, 0)
-plt.grid(True)
+plt.grid(True)  # Enables grid in the background.
 
 plt.title('Exponential Functions')  # Plot title.
 plt.xlabel('x')  # x-axis label.
