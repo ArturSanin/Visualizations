@@ -1,0 +1,3001 @@
+id,column_2
+1,United Kingdom
+2,Sweden
+3,Sweden
+4,Switzerland
+5,Australia
+6,United Kingdom
+7,Mexiko
+8,Canada
+9,Australia
+10,Sweden
+11,Japan
+12,New Zealand
+13,United Kingdom
+14,United Kingdom
+15,Switzerland
+16,USA
+17,United Kingdom
+18,United Kingdom
+19,USA
+20,Sweden
+21,Canada
+22,Australia
+23,Sweden
+24,USA
+25,Brasil
+26,Japan
+27,United Kingdom
+28,New Zealand
+29,USA
+30,Japan
+31,Sweden
+32,Switzerland
+33,Switzerland
+34,Australia
+35,Australia
+36,Switzerland
+37,Canada
+38,United Kingdom
+39,Mexiko
+40,USA
+41,Mexiko
+42,United Kingdom
+43,New Zealand
+44,United Kingdom
+45,Brasil
+46,Switzerland
+47,Mexiko
+48,Australia
+49,Canada
+50,Brasil
+51,Sweden
+52,Switzerland
+53,New Zealand
+54,USA
+55,Sweden
+56,United Kingdom
+57,Mexiko
+58,USA
+59,United Kingdom
+60,Australia
+61,New Zealand
+62,Japan
+63,Mexiko
+64,New Zealand
+65,Australia
+66,Mexiko
+67,Switzerland
+68,Canada
+69,Canada
+70,Mexiko
+71,Mexiko
+72,Mexiko
+73,Sweden
+74,Canada
+75,Mexiko
+76,Sweden
+77,USA
+78,United Kingdom
+79,Sweden
+80,Sweden
+81,Brasil
+82,New Zealand
+83,Japan
+84,Brasil
+85,New Zealand
+86,Brasil
+87,New Zealand
+88,United Kingdom
+89,Australia
+90,USA
+91,USA
+92,New Zealand
+93,Canada
+94,United Kingdom
+95,Switzerland
+96,Mexiko
+97,Mexiko
+98,Sweden
+99,Mexiko
+100,USA
+101,Sweden
+102,Brasil
+103,Brasil
+104,Canada
+105,United Kingdom
+106,Japan
+107,Canada
+108,Japan
+109,Switzerland
+110,United Kingdom
+111,Sweden
+112,USA
+113,Sweden
+114,Canada
+115,Canada
+116,Sweden
+117,New Zealand
+118,Australia
+119,Mexiko
+120,Canada
+121,United Kingdom
+122,Canada
+123,United Kingdom
+124,Mexiko
+125,Japan
+126,Brasil
+127,Japan
+128,Canada
+129,Australia
+130,Australia
+131,Japan
+132,Sweden
+133,United Kingdom
+134,Australia
+135,United Kingdom
+136,Australia
+137,Japan
+138,United Kingdom
+139,United Kingdom
+140,Mexiko
+141,Australia
+142,Brasil
+143,Canada
+144,Japan
+145,United Kingdom
+146,New Zealand
+147,Brasil
+148,USA
+149,Canada
+150,Mexiko
+151,Sweden
+152,Switzerland
+153,Switzerland
+154,Switzerland
+155,Sweden
+156,Brasil
+157,Canada
+158,New Zealand
+159,Brasil
+160,USA
+161,New Zealand
+162,New Zealand
+163,Canada
+164,Canada
+165,Sweden
+166,New Zealand
+167,Sweden
+168,Australia
+169,Japan
+170,Sweden
+171,Sweden
+172,Japan
+173,Mexiko
+174,Australia
+175,Australia
+176,Japan
+177,Japan
+178,New Zealand
+179,Switzerland
+180,Switzerland
+181,Canada
+182,Canada
+183,Australia
+184,Canada
+185,United Kingdom
+186,Mexiko
+187,Australia
+188,New Zealand
+189,USA
+190,Japan
+191,Canada
+192,USA
+193,New Zealand
+194,Canada
+195,United Kingdom
+196,New Zealand
+197,United Kingdom
+198,United Kingdom
+199,USA
+200,Australia
+201,Canada
+202,USA
+203,Brasil
+204,Canada
+205,Australia
+206,Sweden
+207,Brasil
+208,Mexiko
+209,USA
+210,Switzerland
+211,Canada
+212,United Kingdom
+213,Brasil
+214,USA
+215,Australia
+216,New Zealand
+217,Mexiko
+218,Switzerland
+219,Mexiko
+220,USA
+221,Switzerland
+222,Switzerland
+223,New Zealand
+224,Mexiko
+225,USA
+226,Australia
+227,Canada
+228,Switzerland
+229,Brasil
+230,Mexiko
+231,United Kingdom
+232,New Zealand
+233,Brasil
+234,New Zealand
+235,New Zealand
+236,Canada
+237,Mexiko
+238,Brasil
+239,Sweden
+240,United Kingdom
+241,New Zealand
+242,Japan
+243,Japan
+244,Japan
+245,Mexiko
+246,Sweden
+247,New Zealand
+248,Japan
+249,Switzerland
+250,Japan
+251,Japan
+252,New Zealand
+253,Switzerland
+254,Brasil
+255,Australia
+256,Sweden
+257,Mexiko
+258,United Kingdom
+259,Switzerland
+260,United Kingdom
+261,United Kingdom
+262,United Kingdom
+263,USA
+264,Sweden
+265,USA
+266,Sweden
+267,Brasil
+268,Canada
+269,Canada
+270,Australia
+271,Canada
+272,Brasil
+273,Switzerland
+274,USA
+275,Mexiko
+276,Brasil
+277,Australia
+278,Brasil
+279,Australia
+280,Japan
+281,Mexiko
+282,Canada
+283,Sweden
+284,Sweden
+285,Australia
+286,New Zealand
+287,Australia
+288,Canada
+289,Brasil
+290,Brasil
+291,New Zealand
+292,Brasil
+293,Brasil
+294,Sweden
+295,Australia
+296,Sweden
+297,Sweden
+298,Sweden
+299,Australia
+300,Mexiko
+301,Sweden
+302,New Zealand
+303,United Kingdom
+304,Sweden
+305,USA
+306,New Zealand
+307,Mexiko
+308,Brasil
+309,New Zealand
+310,New Zealand
+311,Sweden
+312,Sweden
+313,Sweden
+314,Brasil
+315,Brasil
+316,Mexiko
+317,USA
+318,Mexiko
+319,Brasil
+320,United Kingdom
+321,Sweden
+322,Sweden
+323,Brasil
+324,Japan
+325,Mexiko
+326,Canada
+327,Japan
+328,Australia
+329,Australia
+330,Mexiko
+331,Mexiko
+332,Australia
+333,United Kingdom
+334,Canada
+335,Sweden
+336,Australia
+337,Canada
+338,Australia
+339,Mexiko
+340,USA
+341,Australia
+342,Sweden
+343,New Zealand
+344,Mexiko
+345,United Kingdom
+346,Brasil
+347,Sweden
+348,Mexiko
+349,USA
+350,Brasil
+351,Japan
+352,Australia
+353,United Kingdom
+354,United Kingdom
+355,Japan
+356,Mexiko
+357,Switzerland
+358,United Kingdom
+359,Mexiko
+360,Canada
+361,Australia
+362,Brasil
+363,Switzerland
+364,Sweden
+365,New Zealand
+366,Mexiko
+367,Australia
+368,Switzerland
+369,Australia
+370,Sweden
+371,Switzerland
+372,Australia
+373,Switzerland
+374,USA
+375,Japan
+376,New Zealand
+377,Canada
+378,United Kingdom
+379,United Kingdom
+380,United Kingdom
+381,USA
+382,USA
+383,Sweden
+384,Mexiko
+385,Australia
+386,Canada
+387,Sweden
+388,Australia
+389,United Kingdom
+390,Mexiko
+391,Australia
+392,USA
+393,Brasil
+394,Switzerland
+395,Japan
+396,Japan
+397,Switzerland
+398,Canada
+399,Switzerland
+400,Switzerland
+401,Australia
+402,Sweden
+403,Australia
+404,Mexiko
+405,Mexiko
+406,Canada
+407,United Kingdom
+408,United Kingdom
+409,Switzerland
+410,United Kingdom
+411,Brasil
+412,Mexiko
+413,Mexiko
+414,Sweden
+415,New Zealand
+416,Sweden
+417,United Kingdom
+418,Australia
+419,Australia
+420,Canada
+421,Brasil
+422,New Zealand
+423,New Zealand
+424,USA
+425,New Zealand
+426,Australia
+427,Mexiko
+428,Switzerland
+429,Canada
+430,Canada
+431,Mexiko
+432,Sweden
+433,Australia
+434,United Kingdom
+435,Japan
+436,Australia
+437,United Kingdom
+438,Canada
+439,Brasil
+440,New Zealand
+441,USA
+442,Mexiko
+443,Japan
+444,United Kingdom
+445,Sweden
+446,Japan
+447,Australia
+448,Brasil
+449,Australia
+450,Japan
+451,Japan
+452,New Zealand
+453,Japan
+454,Canada
+455,Australia
+456,Australia
+457,Mexiko
+458,Brasil
+459,Sweden
+460,Canada
+461,Canada
+462,Canada
+463,Japan
+464,Japan
+465,New Zealand
+466,Canada
+467,Switzerland
+468,Australia
+469,Canada
+470,Mexiko
+471,Switzerland
+472,Canada
+473,United Kingdom
+474,Switzerland
+475,United Kingdom
+476,United Kingdom
+477,Canada
+478,New Zealand
+479,Mexiko
+480,Mexiko
+481,USA
+482,Mexiko
+483,Sweden
+484,USA
+485,New Zealand
+486,Sweden
+487,Mexiko
+488,Australia
+489,Mexiko
+490,United Kingdom
+491,Mexiko
+492,Switzerland
+493,USA
+494,Brasil
+495,Japan
+496,Switzerland
+497,USA
+498,Sweden
+499,Japan
+500,Switzerland
+501,Mexiko
+502,Australia
+503,Switzerland
+504,USA
+505,Japan
+506,Brasil
+507,Switzerland
+508,United Kingdom
+509,Mexiko
+510,Switzerland
+511,USA
+512,Sweden
+513,Canada
+514,United Kingdom
+515,Brasil
+516,Sweden
+517,Switzerland
+518,Brasil
+519,Brasil
+520,Japan
+521,Australia
+522,USA
+523,Mexiko
+524,United Kingdom
+525,Japan
+526,New Zealand
+527,Australia
+528,Japan
+529,USA
+530,Mexiko
+531,USA
+532,Switzerland
+533,Japan
+534,Japan
+535,Brasil
+536,Mexiko
+537,Canada
+538,Australia
+539,Mexiko
+540,Mexiko
+541,New Zealand
+542,Sweden
+543,USA
+544,Mexiko
+545,Mexiko
+546,USA
+547,Japan
+548,USA
+549,Japan
+550,Australia
+551,Brasil
+552,Japan
+553,USA
+554,Sweden
+555,Australia
+556,Brasil
+557,USA
+558,Brasil
+559,USA
+560,Australia
+561,Mexiko
+562,Canada
+563,Switzerland
+564,Mexiko
+565,Switzerland
+566,New Zealand
+567,Japan
+568,Sweden
+569,Mexiko
+570,New Zealand
+571,Australia
+572,Australia
+573,Canada
+574,USA
+575,USA
+576,Australia
+577,Australia
+578,Japan
+579,Japan
+580,New Zealand
+581,Switzerland
+582,Brasil
+583,Brasil
+584,United Kingdom
+585,Mexiko
+586,Mexiko
+587,Brasil
+588,Mexiko
+589,New Zealand
+590,Brasil
+591,Mexiko
+592,United Kingdom
+593,Brasil
+594,Canada
+595,Sweden
+596,United Kingdom
+597,Japan
+598,Canada
+599,Switzerland
+600,Brasil
+601,United Kingdom
+602,Canada
+603,Switzerland
+604,Japan
+605,New Zealand
+606,Canada
+607,Brasil
+608,Brasil
+609,Sweden
+610,Switzerland
+611,USA
+612,Australia
+613,Australia
+614,Mexiko
+615,Switzerland
+616,USA
+617,Canada
+618,Japan
+619,Sweden
+620,New Zealand
+621,United Kingdom
+622,New Zealand
+623,USA
+624,Japan
+625,New Zealand
+626,New Zealand
+627,New Zealand
+628,Sweden
+629,New Zealand
+630,Switzerland
+631,USA
+632,Sweden
+633,Japan
+634,Brasil
+635,Mexiko
+636,Brasil
+637,Japan
+638,Switzerland
+639,Japan
+640,USA
+641,USA
+642,Mexiko
+643,Brasil
+644,Mexiko
+645,United Kingdom
+646,Canada
+647,New Zealand
+648,USA
+649,New Zealand
+650,New Zealand
+651,Switzerland
+652,Switzerland
+653,United Kingdom
+654,Switzerland
+655,USA
+656,Australia
+657,Mexiko
+658,Sweden
+659,Sweden
+660,Mexiko
+661,Australia
+662,United Kingdom
+663,Australia
+664,Canada
+665,Japan
+666,Switzerland
+667,New Zealand
+668,Sweden
+669,Japan
+670,Japan
+671,Switzerland
+672,Switzerland
+673,Australia
+674,USA
+675,Australia
+676,New Zealand
+677,Brasil
+678,Australia
+679,Canada
+680,Japan
+681,Canada
+682,United Kingdom
+683,Japan
+684,New Zealand
+685,Mexiko
+686,New Zealand
+687,Switzerland
+688,Sweden
+689,Canada
+690,Mexiko
+691,Canada
+692,United Kingdom
+693,USA
+694,Brasil
+695,Canada
+696,Brasil
+697,Australia
+698,Switzerland
+699,Switzerland
+700,Switzerland
+701,New Zealand
+702,Switzerland
+703,Switzerland
+704,USA
+705,Mexiko
+706,New Zealand
+707,Japan
+708,Sweden
+709,Switzerland
+710,Switzerland
+711,Mexiko
+712,Mexiko
+713,USA
+714,Mexiko
+715,Japan
+716,Sweden
+717,Sweden
+718,Switzerland
+719,Brasil
+720,Canada
+721,Australia
+722,Mexiko
+723,Canada
+724,Switzerland
+725,Switzerland
+726,Switzerland
+727,Australia
+728,USA
+729,Switzerland
+730,Brasil
+731,Sweden
+732,Switzerland
+733,Sweden
+734,New Zealand
+735,Japan
+736,United Kingdom
+737,New Zealand
+738,Australia
+739,Sweden
+740,Brasil
+741,New Zealand
+742,Sweden
+743,Japan
+744,Canada
+745,United Kingdom
+746,Sweden
+747,Japan
+748,USA
+749,Switzerland
+750,New Zealand
+751,Canada
+752,Canada
+753,Mexiko
+754,Mexiko
+755,Mexiko
+756,Switzerland
+757,Sweden
+758,Mexiko
+759,New Zealand
+760,Japan
+761,Sweden
+762,USA
+763,United Kingdom
+764,Japan
+765,Sweden
+766,Japan
+767,Canada
+768,Canada
+769,Mexiko
+770,New Zealand
+771,Switzerland
+772,Japan
+773,Sweden
+774,Mexiko
+775,Sweden
+776,Brasil
+777,USA
+778,United Kingdom
+779,Sweden
+780,United Kingdom
+781,Sweden
+782,Canada
+783,USA
+784,New Zealand
+785,Australia
+786,Canada
+787,New Zealand
+788,Japan
+789,Australia
+790,Sweden
+791,Australia
+792,Japan
+793,Sweden
+794,Mexiko
+795,United Kingdom
+796,Mexiko
+797,Japan
+798,Canada
+799,Sweden
+800,Japan
+801,Mexiko
+802,Mexiko
+803,United Kingdom
+804,Japan
+805,Sweden
+806,Sweden
+807,Switzerland
+808,Sweden
+809,Sweden
+810,Canada
+811,Australia
+812,United Kingdom
+813,Brasil
+814,Sweden
+815,Brasil
+816,Australia
+817,USA
+818,Mexiko
+819,USA
+820,USA
+821,Sweden
+822,Brasil
+823,Switzerland
+824,Japan
+825,Canada
+826,New Zealand
+827,Australia
+828,New Zealand
+829,Mexiko
+830,Brasil
+831,Sweden
+832,New Zealand
+833,Brasil
+834,Canada
+835,Brasil
+836,New Zealand
+837,Mexiko
+838,Australia
+839,Japan
+840,United Kingdom
+841,Australia
+842,Sweden
+843,Brasil
+844,Canada
+845,New Zealand
+846,Switzerland
+847,New Zealand
+848,New Zealand
+849,United Kingdom
+850,New Zealand
+851,Sweden
+852,Mexiko
+853,Canada
+854,Canada
+855,Japan
+856,New Zealand
+857,USA
+858,Sweden
+859,Switzerland
+860,Switzerland
+861,USA
+862,USA
+863,Sweden
+864,United Kingdom
+865,United Kingdom
+866,United Kingdom
+867,Canada
+868,Mexiko
+869,Mexiko
+870,Canada
+871,United Kingdom
+872,New Zealand
+873,Switzerland
+874,Sweden
+875,Sweden
+876,Sweden
+877,USA
+878,Brasil
+879,Sweden
+880,Australia
+881,New Zealand
+882,Australia
+883,Brasil
+884,Australia
+885,New Zealand
+886,Sweden
+887,Canada
+888,Canada
+889,United Kingdom
+890,New Zealand
+891,United Kingdom
+892,United Kingdom
+893,Brasil
+894,Australia
+895,Canada
+896,Brasil
+897,Japan
+898,Brasil
+899,Australia
+900,Switzerland
+901,New Zealand
+902,Mexiko
+903,New Zealand
+904,Canada
+905,Switzerland
+906,Brasil
+907,Mexiko
+908,Australia
+909,Australia
+910,Brasil
+911,New Zealand
+912,Switzerland
+913,Australia
+914,Mexiko
+915,Mexiko
+916,Mexiko
+917,Canada
+918,Australia
+919,Australia
+920,Brasil
+921,United Kingdom
+922,Switzerland
+923,Australia
+924,Australia
+925,Brasil
+926,Australia
+927,USA
+928,Japan
+929,New Zealand
+930,USA
+931,USA
+932,USA
+933,Switzerland
+934,New Zealand
+935,United Kingdom
+936,USA
+937,Switzerland
+938,New Zealand
+939,Switzerland
+940,Canada
+941,New Zealand
+942,Brasil
+943,Canada
+944,Japan
+945,Australia
+946,USA
+947,Japan
+948,Australia
+949,Canada
+950,Sweden
+951,Australia
+952,USA
+953,Australia
+954,Sweden
+955,USA
+956,Brasil
+957,Canada
+958,Mexiko
+959,Switzerland
+960,Australia
+961,USA
+962,Australia
+963,New Zealand
+964,Mexiko
+965,Brasil
+966,Japan
+967,Japan
+968,Switzerland
+969,Australia
+970,Japan
+971,Sweden
+972,Brasil
+973,Mexiko
+974,Mexiko
+975,Japan
+976,Japan
+977,Brasil
+978,Mexiko
+979,Japan
+980,Brasil
+981,Australia
+982,Sweden
+983,Japan
+984,Canada
+985,Mexiko
+986,Canada
+987,Brasil
+988,Canada
+989,Sweden
+990,New Zealand
+991,Mexiko
+992,Japan
+993,Australia
+994,United Kingdom
+995,New Zealand
+996,Sweden
+997,USA
+998,Sweden
+999,Brasil
+1000,Sweden
+1001,Japan
+1002,Japan
+1003,Japan
+1004,Sweden
+1005,Sweden
+1006,United Kingdom
+1007,USA
+1008,Japan
+1009,Japan
+1010,Sweden
+1011,USA
+1012,Canada
+1013,Canada
+1014,Canada
+1015,Australia
+1016,Sweden
+1017,United Kingdom
+1018,USA
+1019,Australia
+1020,Canada
+1021,Sweden
+1022,Switzerland
+1023,Mexiko
+1024,Australia
+1025,USA
+1026,United Kingdom
+1027,Australia
+1028,Switzerland
+1029,USA
+1030,Japan
+1031,Canada
+1032,Australia
+1033,United Kingdom
+1034,United Kingdom
+1035,Brasil
+1036,Australia
+1037,Japan
+1038,United Kingdom
+1039,Switzerland
+1040,USA
+1041,New Zealand
+1042,Australia
+1043,Japan
+1044,Japan
+1045,Australia
+1046,Japan
+1047,New Zealand
+1048,Brasil
+1049,Australia
+1050,Australia
+1051,Brasil
+1052,Switzerland
+1053,Canada
+1054,Brasil
+1055,Switzerland
+1056,Switzerland
+1057,Mexiko
+1058,Mexiko
+1059,Mexiko
+1060,United Kingdom
+1061,Japan
+1062,New Zealand
+1063,New Zealand
+1064,USA
+1065,Brasil
+1066,Australia
+1067,Mexiko
+1068,United Kingdom
+1069,Switzerland
+1070,Canada
+1071,USA
+1072,Mexiko
+1073,Brasil
+1074,United Kingdom
+1075,United Kingdom
+1076,USA
+1077,Switzerland
+1078,Canada
+1079,Brasil
+1080,Japan
+1081,Mexiko
+1082,Mexiko
+1083,Sweden
+1084,Mexiko
+1085,Japan
+1086,Australia
+1087,Australia
+1088,United Kingdom
+1089,Canada
+1090,United Kingdom
+1091,United Kingdom
+1092,Switzerland
+1093,United Kingdom
+1094,United Kingdom
+1095,Australia
+1096,Japan
+1097,Canada
+1098,Switzerland
+1099,Canada
+1100,Switzerland
+1101,Canada
+1102,Brasil
+1103,Mexiko
+1104,Switzerland
+1105,Sweden
+1106,United Kingdom
+1107,United Kingdom
+1108,Canada
+1109,New Zealand
+1110,USA
+1111,Japan
+1112,Australia
+1113,Mexiko
+1114,Switzerland
+1115,USA
+1116,Australia
+1117,Australia
+1118,Canada
+1119,Australia
+1120,USA
+1121,Japan
+1122,Mexiko
+1123,Switzerland
+1124,Japan
+1125,Sweden
+1126,Brasil
+1127,Switzerland
+1128,Mexiko
+1129,Japan
+1130,Australia
+1131,Mexiko
+1132,Canada
+1133,Brasil
+1134,Switzerland
+1135,Sweden
+1136,Canada
+1137,Brasil
+1138,Japan
+1139,Brasil
+1140,New Zealand
+1141,Switzerland
+1142,USA
+1143,New Zealand
+1144,Mexiko
+1145,New Zealand
+1146,Switzerland
+1147,USA
+1148,Switzerland
+1149,Switzerland
+1150,Brasil
+1151,Mexiko
+1152,Australia
+1153,Japan
+1154,United Kingdom
+1155,New Zealand
+1156,Japan
+1157,Brasil
+1158,United Kingdom
+1159,Switzerland
+1160,Mexiko
+1161,United Kingdom
+1162,Australia
+1163,Sweden
+1164,USA
+1165,Japan
+1166,New Zealand
+1167,United Kingdom
+1168,Australia
+1169,Brasil
+1170,Brasil
+1171,New Zealand
+1172,Japan
+1173,Brasil
+1174,Sweden
+1175,United Kingdom
+1176,New Zealand
+1177,United Kingdom
+1178,Sweden
+1179,Australia
+1180,USA
+1181,Brasil
+1182,Japan
+1183,Sweden
+1184,United Kingdom
+1185,Brasil
+1186,Switzerland
+1187,Brasil
+1188,Sweden
+1189,Australia
+1190,Mexiko
+1191,Japan
+1192,Canada
+1193,Japan
+1194,New Zealand
+1195,Japan
+1196,New Zealand
+1197,Sweden
+1198,Mexiko
+1199,Canada
+1200,Sweden
+1201,Brasil
+1202,New Zealand
+1203,Canada
+1204,United Kingdom
+1205,USA
+1206,Brasil
+1207,Japan
+1208,USA
+1209,Canada
+1210,Switzerland
+1211,Canada
+1212,Australia
+1213,Sweden
+1214,Australia
+1215,Sweden
+1216,Sweden
+1217,Mexiko
+1218,New Zealand
+1219,Canada
+1220,United Kingdom
+1221,Canada
+1222,Mexiko
+1223,Japan
+1224,Switzerland
+1225,Canada
+1226,Canada
+1227,Mexiko
+1228,Japan
+1229,United Kingdom
+1230,Mexiko
+1231,United Kingdom
+1232,Switzerland
+1233,Brasil
+1234,USA
+1235,Mexiko
+1236,Japan
+1237,USA
+1238,Canada
+1239,Mexiko
+1240,USA
+1241,Australia
+1242,USA
+1243,Australia
+1244,Mexiko
+1245,Japan
+1246,USA
+1247,New Zealand
+1248,Sweden
+1249,Mexiko
+1250,New Zealand
+1251,Canada
+1252,Japan
+1253,United Kingdom
+1254,Sweden
+1255,Australia
+1256,United Kingdom
+1257,Canada
+1258,Japan
+1259,Sweden
+1260,New Zealand
+1261,New Zealand
+1262,USA
+1263,Brasil
+1264,USA
+1265,Mexiko
+1266,Sweden
+1267,United Kingdom
+1268,Australia
+1269,Mexiko
+1270,Switzerland
+1271,Australia
+1272,Switzerland
+1273,Brasil
+1274,United Kingdom
+1275,United Kingdom
+1276,Switzerland
+1277,Mexiko
+1278,USA
+1279,Mexiko
+1280,Australia
+1281,United Kingdom
+1282,New Zealand
+1283,New Zealand
+1284,USA
+1285,Japan
+1286,Canada
+1287,New Zealand
+1288,Japan
+1289,Canada
+1290,Australia
+1291,Canada
+1292,Switzerland
+1293,Australia
+1294,New Zealand
+1295,New Zealand
+1296,Sweden
+1297,Canada
+1298,USA
+1299,Japan
+1300,United Kingdom
+1301,United Kingdom
+1302,Canada
+1303,United Kingdom
+1304,Sweden
+1305,USA
+1306,Australia
+1307,Brasil
+1308,Australia
+1309,Japan
+1310,Switzerland
+1311,Sweden
+1312,Switzerland
+1313,New Zealand
+1314,Japan
+1315,Australia
+1316,Canada
+1317,Switzerland
+1318,Australia
+1319,Mexiko
+1320,Canada
+1321,Brasil
+1322,Mexiko
+1323,United Kingdom
+1324,USA
+1325,Canada
+1326,United Kingdom
+1327,Mexiko
+1328,Japan
+1329,Canada
+1330,USA
+1331,Switzerland
+1332,Canada
+1333,Mexiko
+1334,New Zealand
+1335,Brasil
+1336,Canada
+1337,Canada
+1338,Japan
+1339,Canada
+1340,New Zealand
+1341,Japan
+1342,United Kingdom
+1343,Switzerland
+1344,USA
+1345,Switzerland
+1346,Canada
+1347,USA
+1348,Japan
+1349,Australia
+1350,New Zealand
+1351,Canada
+1352,Canada
+1353,United Kingdom
+1354,United Kingdom
+1355,Mexiko
+1356,Australia
+1357,Canada
+1358,Sweden
+1359,Brasil
+1360,New Zealand
+1361,Brasil
+1362,Japan
+1363,Japan
+1364,USA
+1365,Switzerland
+1366,Canada
+1367,USA
+1368,Australia
+1369,Mexiko
+1370,USA
+1371,Canada
+1372,Mexiko
+1373,United Kingdom
+1374,New Zealand
+1375,Mexiko
+1376,USA
+1377,USA
+1378,Japan
+1379,Japan
+1380,Australia
+1381,Japan
+1382,Sweden
+1383,Mexiko
+1384,New Zealand
+1385,Australia
+1386,Sweden
+1387,Canada
+1388,Switzerland
+1389,Australia
+1390,Mexiko
+1391,Sweden
+1392,Sweden
+1393,USA
+1394,USA
+1395,USA
+1396,USA
+1397,United Kingdom
+1398,Australia
+1399,Australia
+1400,Brasil
+1401,Switzerland
+1402,USA
+1403,USA
+1404,Australia
+1405,Japan
+1406,Australia
+1407,Switzerland
+1408,Switzerland
+1409,Brasil
+1410,Australia
+1411,Australia
+1412,USA
+1413,Switzerland
+1414,New Zealand
+1415,United Kingdom
+1416,Australia
+1417,Japan
+1418,Switzerland
+1419,Japan
+1420,Brasil
+1421,Brasil
+1422,Switzerland
+1423,Sweden
+1424,Canada
+1425,Sweden
+1426,New Zealand
+1427,Japan
+1428,Switzerland
+1429,United Kingdom
+1430,Japan
+1431,New Zealand
+1432,Japan
+1433,Sweden
+1434,Switzerland
+1435,USA
+1436,New Zealand
+1437,USA
+1438,USA
+1439,USA
+1440,Australia
+1441,Canada
+1442,United Kingdom
+1443,Japan
+1444,Brasil
+1445,Mexiko
+1446,USA
+1447,Switzerland
+1448,United Kingdom
+1449,Brasil
+1450,USA
+1451,Canada
+1452,Mexiko
+1453,USA
+1454,Sweden
+1455,New Zealand
+1456,Brasil
+1457,Canada
+1458,Australia
+1459,Brasil
+1460,Sweden
+1461,Brasil
+1462,Brasil
+1463,Australia
+1464,Canada
+1465,United Kingdom
+1466,New Zealand
+1467,Mexiko
+1468,New Zealand
+1469,Mexiko
+1470,Japan
+1471,Japan
+1472,Switzerland
+1473,USA
+1474,New Zealand
+1475,Sweden
+1476,Japan
+1477,Switzerland
+1478,United Kingdom
+1479,United Kingdom
+1480,Australia
+1481,New Zealand
+1482,Japan
+1483,USA
+1484,United Kingdom
+1485,Japan
+1486,Canada
+1487,United Kingdom
+1488,USA
+1489,Sweden
+1490,United Kingdom
+1491,Australia
+1492,USA
+1493,Australia
+1494,New Zealand
+1495,Mexiko
+1496,Japan
+1497,Canada
+1498,New Zealand
+1499,New Zealand
+1500,Mexiko
+1501,Switzerland
+1502,United Kingdom
+1503,Sweden
+1504,Mexiko
+1505,Switzerland
+1506,Brasil
+1507,Canada
+1508,Sweden
+1509,Sweden
+1510,Australia
+1511,Switzerland
+1512,United Kingdom
+1513,Japan
+1514,Canada
+1515,Sweden
+1516,Australia
+1517,Japan
+1518,Canada
+1519,New Zealand
+1520,Brasil
+1521,Japan
+1522,Brasil
+1523,Canada
+1524,Mexiko
+1525,New Zealand
+1526,Australia
+1527,New Zealand
+1528,Japan
+1529,Mexiko
+1530,Mexiko
+1531,Australia
+1532,Japan
+1533,United Kingdom
+1534,Australia
+1535,Sweden
+1536,Brasil
+1537,New Zealand
+1538,New Zealand
+1539,Japan
+1540,Australia
+1541,Canada
+1542,Mexiko
+1543,Brasil
+1544,Switzerland
+1545,United Kingdom
+1546,Australia
+1547,United Kingdom
+1548,Canada
+1549,Australia
+1550,United Kingdom
+1551,Sweden
+1552,New Zealand
+1553,Canada
+1554,Australia
+1555,New Zealand
+1556,Brasil
+1557,Switzerland
+1558,Sweden
+1559,USA
+1560,Japan
+1561,Brasil
+1562,Canada
+1563,Mexiko
+1564,Canada
+1565,Brasil
+1566,Japan
+1567,Japan
+1568,United Kingdom
+1569,New Zealand
+1570,Japan
+1571,Australia
+1572,Sweden
+1573,Japan
+1574,United Kingdom
+1575,Mexiko
+1576,New Zealand
+1577,Japan
+1578,Australia
+1579,Mexiko
+1580,Sweden
+1581,United Kingdom
+1582,Australia
+1583,Australia
+1584,Brasil
+1585,Japan
+1586,Brasil
+1587,Japan
+1588,United Kingdom
+1589,Switzerland
+1590,Canada
+1591,Australia
+1592,New Zealand
+1593,Canada
+1594,Japan
+1595,Japan
+1596,USA
+1597,United Kingdom
+1598,United Kingdom
+1599,Brasil
+1600,Brasil
+1601,Brasil
+1602,Canada
+1603,New Zealand
+1604,Switzerland
+1605,Switzerland
+1606,Switzerland
+1607,Canada
+1608,Japan
+1609,New Zealand
+1610,Canada
+1611,Sweden
+1612,Australia
+1613,Sweden
+1614,Japan
+1615,Japan
+1616,Canada
+1617,Australia
+1618,Mexiko
+1619,Brasil
+1620,Brasil
+1621,Switzerland
+1622,Australia
+1623,Mexiko
+1624,Switzerland
+1625,Switzerland
+1626,Sweden
+1627,Japan
+1628,United Kingdom
+1629,Australia
+1630,Brasil
+1631,New Zealand
+1632,United Kingdom
+1633,New Zealand
+1634,Japan
+1635,Mexiko
+1636,Japan
+1637,USA
+1638,Brasil
+1639,Australia
+1640,United Kingdom
+1641,Canada
+1642,Brasil
+1643,Mexiko
+1644,USA
+1645,New Zealand
+1646,Japan
+1647,Japan
+1648,Brasil
+1649,Japan
+1650,Japan
+1651,Australia
+1652,Brasil
+1653,Australia
+1654,Switzerland
+1655,Switzerland
+1656,Australia
+1657,Australia
+1658,Brasil
+1659,Sweden
+1660,Australia
+1661,Canada
+1662,Japan
+1663,Brasil
+1664,Brasil
+1665,USA
+1666,USA
+1667,USA
+1668,Switzerland
+1669,USA
+1670,USA
+1671,United Kingdom
+1672,New Zealand
+1673,Australia
+1674,New Zealand
+1675,Mexiko
+1676,Japan
+1677,Sweden
+1678,Switzerland
+1679,USA
+1680,Sweden
+1681,Australia
+1682,United Kingdom
+1683,Mexiko
+1684,Canada
+1685,Mexiko
+1686,USA
+1687,Mexiko
+1688,Switzerland
+1689,Brasil
+1690,Brasil
+1691,Canada
+1692,Australia
+1693,Mexiko
+1694,Japan
+1695,United Kingdom
+1696,New Zealand
+1697,Sweden
+1698,Sweden
+1699,Mexiko
+1700,Sweden
+1701,USA
+1702,Australia
+1703,New Zealand
+1704,Japan
+1705,Brasil
+1706,Sweden
+1707,United Kingdom
+1708,Switzerland
+1709,United Kingdom
+1710,Brasil
+1711,Japan
+1712,Sweden
+1713,Sweden
+1714,Japan
+1715,Mexiko
+1716,Sweden
+1717,Australia
+1718,Sweden
+1719,USA
+1720,Brasil
+1721,Japan
+1722,USA
+1723,Japan
+1724,Brasil
+1725,Switzerland
+1726,New Zealand
+1727,USA
+1728,Switzerland
+1729,Mexiko
+1730,USA
+1731,Sweden
+1732,USA
+1733,Australia
+1734,Switzerland
+1735,Brasil
+1736,USA
+1737,Canada
+1738,Japan
+1739,United Kingdom
+1740,Canada
+1741,Canada
+1742,Australia
+1743,Switzerland
+1744,Mexiko
+1745,Brasil
+1746,Canada
+1747,Sweden
+1748,Mexiko
+1749,USA
+1750,Brasil
+1751,Mexiko
+1752,Switzerland
+1753,United Kingdom
+1754,Canada
+1755,USA
+1756,USA
+1757,Mexiko
+1758,United Kingdom
+1759,Sweden
+1760,New Zealand
+1761,Canada
+1762,United Kingdom
+1763,Mexiko
+1764,Brasil
+1765,Australia
+1766,Australia
+1767,Sweden
+1768,USA
+1769,United Kingdom
+1770,Sweden
+1771,USA
+1772,Switzerland
+1773,New Zealand
+1774,Mexiko
+1775,Switzerland
+1776,Switzerland
+1777,Australia
+1778,United Kingdom
+1779,Mexiko
+1780,Brasil
+1781,Australia
+1782,Brasil
+1783,Mexiko
+1784,Switzerland
+1785,USA
+1786,Sweden
+1787,Switzerland
+1788,Japan
+1789,Japan
+1790,USA
+1791,Sweden
+1792,USA
+1793,Australia
+1794,Mexiko
+1795,Switzerland
+1796,Australia
+1797,Sweden
+1798,Japan
+1799,Mexiko
+1800,Sweden
+1801,United Kingdom
+1802,Japan
+1803,Mexiko
+1804,Mexiko
+1805,Australia
+1806,Brasil
+1807,Japan
+1808,Switzerland
+1809,Japan
+1810,Sweden
+1811,Mexiko
+1812,Sweden
+1813,USA
+1814,Switzerland
+1815,New Zealand
+1816,Sweden
+1817,Mexiko
+1818,Japan
+1819,Canada
+1820,Mexiko
+1821,Switzerland
+1822,Canada
+1823,United Kingdom
+1824,USA
+1825,New Zealand
+1826,Switzerland
+1827,USA
+1828,United Kingdom
+1829,Brasil
+1830,Sweden
+1831,Mexiko
+1832,Japan
+1833,USA
+1834,United Kingdom
+1835,Australia
+1836,Sweden
+1837,Australia
+1838,Mexiko
+1839,Switzerland
+1840,Japan
+1841,Japan
+1842,USA
+1843,USA
+1844,United Kingdom
+1845,Australia
+1846,Japan
+1847,New Zealand
+1848,USA
+1849,Mexiko
+1850,Australia
+1851,Australia
+1852,Japan
+1853,Canada
+1854,USA
+1855,Switzerland
+1856,New Zealand
+1857,Sweden
+1858,United Kingdom
+1859,Switzerland
+1860,Japan
+1861,United Kingdom
+1862,New Zealand
+1863,Canada
+1864,Australia
+1865,Switzerland
+1866,Japan
+1867,Mexiko
+1868,Brasil
+1869,USA
+1870,Switzerland
+1871,Japan
+1872,Canada
+1873,New Zealand
+1874,Canada
+1875,Sweden
+1876,Australia
+1877,USA
+1878,USA
+1879,New Zealand
+1880,USA
+1881,Australia
+1882,Switzerland
+1883,United Kingdom
+1884,Canada
+1885,New Zealand
+1886,Mexiko
+1887,Brasil
+1888,Mexiko
+1889,Brasil
+1890,Sweden
+1891,Japan
+1892,Switzerland
+1893,USA
+1894,Switzerland
+1895,Switzerland
+1896,New Zealand
+1897,United Kingdom
+1898,USA
+1899,USA
+1900,United Kingdom
+1901,Japan
+1902,Brasil
+1903,USA
+1904,USA
+1905,Sweden
+1906,Japan
+1907,Switzerland
+1908,Brasil
+1909,Sweden
+1910,Canada
+1911,Mexiko
+1912,United Kingdom
+1913,USA
+1914,Australia
+1915,Brasil
+1916,Mexiko
+1917,United Kingdom
+1918,Switzerland
+1919,United Kingdom
+1920,Sweden
+1921,Switzerland
+1922,Sweden
+1923,New Zealand
+1924,USA
+1925,Switzerland
+1926,Switzerland
+1927,Canada
+1928,Mexiko
+1929,Brasil
+1930,Canada
+1931,Canada
+1932,New Zealand
+1933,USA
+1934,Mexiko
+1935,Canada
+1936,Brasil
+1937,Sweden
+1938,Brasil
+1939,Australia
+1940,Mexiko
+1941,Japan
+1942,Canada
+1943,Switzerland
+1944,USA
+1945,Canada
+1946,Brasil
+1947,Australia
+1948,Australia
+1949,Japan
+1950,Japan
+1951,USA
+1952,United Kingdom
+1953,Switzerland
+1954,Japan
+1955,Japan
+1956,Canada
+1957,Brasil
+1958,Japan
+1959,Brasil
+1960,Mexiko
+1961,Brasil
+1962,Switzerland
+1963,Mexiko
+1964,Mexiko
+1965,Brasil
+1966,New Zealand
+1967,Canada
+1968,New Zealand
+1969,Brasil
+1970,Canada
+1971,Switzerland
+1972,Mexiko
+1973,Australia
+1974,Sweden
+1975,Brasil
+1976,New Zealand
+1977,Switzerland
+1978,United Kingdom
+1979,United Kingdom
+1980,Switzerland
+1981,Canada
+1982,Japan
+1983,Brasil
+1984,Canada
+1985,Sweden
+1986,United Kingdom
+1987,Japan
+1988,Canada
+1989,Australia
+1990,New Zealand
+1991,Australia
+1992,Mexiko
+1993,Australia
+1994,USA
+1995,Australia
+1996,Australia
+1997,United Kingdom
+1998,Brasil
+1999,New Zealand
+2000,Canada
+2001,Mexiko
+2002,Sweden
+2003,Mexiko
+2004,Japan
+2005,United Kingdom
+2006,USA
+2007,Switzerland
+2008,USA
+2009,Brasil
+2010,Japan
+2011,New Zealand
+2012,USA
+2013,Brasil
+2014,Australia
+2015,Switzerland
+2016,USA
+2017,Mexiko
+2018,Switzerland
+2019,Canada
+2020,USA
+2021,Sweden
+2022,New Zealand
+2023,Australia
+2024,Mexiko
+2025,New Zealand
+2026,Japan
+2027,Australia
+2028,Brasil
+2029,Canada
+2030,Japan
+2031,Switzerland
+2032,USA
+2033,United Kingdom
+2034,United Kingdom
+2035,USA
+2036,New Zealand
+2037,Mexiko
+2038,Brasil
+2039,Japan
+2040,Canada
+2041,United Kingdom
+2042,Switzerland
+2043,Japan
+2044,Australia
+2045,Sweden
+2046,Canada
+2047,New Zealand
+2048,United Kingdom
+2049,Australia
+2050,Mexiko
+2051,Sweden
+2052,Sweden
+2053,USA
+2054,Mexiko
+2055,Switzerland
+2056,Brasil
+2057,Brasil
+2058,Sweden
+2059,Australia
+2060,New Zealand
+2061,Sweden
+2062,Brasil
+2063,Switzerland
+2064,United Kingdom
+2065,New Zealand
+2066,Switzerland
+2067,Japan
+2068,United Kingdom
+2069,New Zealand
+2070,Mexiko
+2071,Japan
+2072,Australia
+2073,United Kingdom
+2074,United Kingdom
+2075,Canada
+2076,Brasil
+2077,United Kingdom
+2078,Mexiko
+2079,Canada
+2080,Canada
+2081,USA
+2082,Brasil
+2083,Canada
+2084,Brasil
+2085,USA
+2086,Sweden
+2087,Switzerland
+2088,Japan
+2089,Australia
+2090,Brasil
+2091,New Zealand
+2092,Mexiko
+2093,Sweden
+2094,USA
+2095,United Kingdom
+2096,New Zealand
+2097,Canada
+2098,Brasil
+2099,United Kingdom
+2100,Sweden
+2101,Canada
+2102,Mexiko
+2103,Switzerland
+2104,Canada
+2105,Canada
+2106,USA
+2107,USA
+2108,Brasil
+2109,New Zealand
+2110,New Zealand
+2111,USA
+2112,Brasil
+2113,New Zealand
+2114,Sweden
+2115,Brasil
+2116,Japan
+2117,Brasil
+2118,Brasil
+2119,Sweden
+2120,Mexiko
+2121,Canada
+2122,Sweden
+2123,Sweden
+2124,United Kingdom
+2125,Brasil
+2126,Mexiko
+2127,Brasil
+2128,Switzerland
+2129,Mexiko
+2130,New Zealand
+2131,Mexiko
+2132,Mexiko
+2133,United Kingdom
+2134,New Zealand
+2135,Switzerland
+2136,Mexiko
+2137,USA
+2138,Sweden
+2139,Australia
+2140,Switzerland
+2141,Japan
+2142,New Zealand
+2143,Brasil
+2144,United Kingdom
+2145,Brasil
+2146,Sweden
+2147,Canada
+2148,Japan
+2149,Brasil
+2150,Switzerland
+2151,Japan
+2152,Japan
+2153,Canada
+2154,Sweden
+2155,Sweden
+2156,Brasil
+2157,Sweden
+2158,Australia
+2159,Japan
+2160,Japan
+2161,USA
+2162,Brasil
+2163,Canada
+2164,Switzerland
+2165,Brasil
+2166,Mexiko
+2167,Canada
+2168,New Zealand
+2169,Switzerland
+2170,Brasil
+2171,Sweden
+2172,Australia
+2173,Australia
+2174,Mexiko
+2175,USA
+2176,Australia
+2177,Australia
+2178,Switzerland
+2179,Canada
+2180,United Kingdom
+2181,Brasil
+2182,Japan
+2183,Brasil
+2184,United Kingdom
+2185,Switzerland
+2186,United Kingdom
+2187,Switzerland
+2188,Canada
+2189,Brasil
+2190,United Kingdom
+2191,Sweden
+2192,Canada
+2193,Canada
+2194,Canada
+2195,Canada
+2196,USA
+2197,Australia
+2198,Canada
+2199,USA
+2200,USA
+2201,Mexiko
+2202,Japan
+2203,New Zealand
+2204,Sweden
+2205,Switzerland
+2206,Switzerland
+2207,Canada
+2208,United Kingdom
+2209,New Zealand
+2210,Canada
+2211,United Kingdom
+2212,Australia
+2213,USA
+2214,Canada
+2215,Mexiko
+2216,Australia
+2217,Switzerland
+2218,United Kingdom
+2219,Brasil
+2220,Canada
+2221,Switzerland
+2222,Japan
+2223,Mexiko
+2224,United Kingdom
+2225,Sweden
+2226,Brasil
+2227,Switzerland
+2228,Mexiko
+2229,New Zealand
+2230,New Zealand
+2231,New Zealand
+2232,Japan
+2233,Canada
+2234,Canada
+2235,Brasil
+2236,USA
+2237,Japan
+2238,Japan
+2239,Mexiko
+2240,Sweden
+2241,Canada
+2242,Mexiko
+2243,USA
+2244,Switzerland
+2245,Australia
+2246,New Zealand
+2247,Australia
+2248,United Kingdom
+2249,Canada
+2250,New Zealand
+2251,Brasil
+2252,United Kingdom
+2253,New Zealand
+2254,Brasil
+2255,Mexiko
+2256,United Kingdom
+2257,USA
+2258,USA
+2259,Mexiko
+2260,Sweden
+2261,Japan
+2262,United Kingdom
+2263,United Kingdom
+2264,New Zealand
+2265,Brasil
+2266,New Zealand
+2267,Mexiko
+2268,New Zealand
+2269,Canada
+2270,Canada
+2271,Japan
+2272,Mexiko
+2273,Switzerland
+2274,Japan
+2275,United Kingdom
+2276,New Zealand
+2277,New Zealand
+2278,Canada
+2279,New Zealand
+2280,Brasil
+2281,Canada
+2282,United Kingdom
+2283,Brasil
+2284,Japan
+2285,Sweden
+2286,USA
+2287,Australia
+2288,Japan
+2289,United Kingdom
+2290,Brasil
+2291,USA
+2292,Mexiko
+2293,United Kingdom
+2294,Australia
+2295,USA
+2296,USA
+2297,Australia
+2298,Australia
+2299,United Kingdom
+2300,Canada
+2301,Mexiko
+2302,Sweden
+2303,USA
+2304,New Zealand
+2305,Japan
+2306,Switzerland
+2307,Mexiko
+2308,United Kingdom
+2309,United Kingdom
+2310,Sweden
+2311,USA
+2312,USA
+2313,Sweden
+2314,Mexiko
+2315,Brasil
+2316,Canada
+2317,Australia
+2318,Australia
+2319,Mexiko
+2320,Canada
+2321,Switzerland
+2322,Australia
+2323,Sweden
+2324,Sweden
+2325,USA
+2326,USA
+2327,Canada
+2328,Mexiko
+2329,Brasil
+2330,United Kingdom
+2331,Australia
+2332,Canada
+2333,Sweden
+2334,Canada
+2335,Japan
+2336,Canada
+2337,United Kingdom
+2338,United Kingdom
+2339,New Zealand
+2340,Australia
+2341,Canada
+2342,Japan
+2343,Australia
+2344,Sweden
+2345,Switzerland
+2346,Canada
+2347,Australia
+2348,United Kingdom
+2349,United Kingdom
+2350,USA
+2351,Australia
+2352,Brasil
+2353,Sweden
+2354,Mexiko
+2355,Mexiko
+2356,Japan
+2357,Mexiko
+2358,United Kingdom
+2359,Brasil
+2360,New Zealand
+2361,USA
+2362,Mexiko
+2363,United Kingdom
+2364,Brasil
+2365,Canada
+2366,Sweden
+2367,Sweden
+2368,Mexiko
+2369,United Kingdom
+2370,Japan
+2371,Mexiko
+2372,USA
+2373,United Kingdom
+2374,United Kingdom
+2375,Canada
+2376,Japan
+2377,New Zealand
+2378,Australia
+2379,Australia
+2380,Brasil
+2381,Australia
+2382,United Kingdom
+2383,USA
+2384,Brasil
+2385,Switzerland
+2386,Mexiko
+2387,Brasil
+2388,Australia
+2389,Brasil
+2390,Switzerland
+2391,Canada
+2392,Switzerland
+2393,Australia
+2394,Australia
+2395,USA
+2396,Sweden
+2397,United Kingdom
+2398,Australia
+2399,Switzerland
+2400,United Kingdom
+2401,Australia
+2402,Switzerland
+2403,Canada
+2404,USA
+2405,New Zealand
+2406,Australia
+2407,New Zealand
+2408,Canada
+2409,New Zealand
+2410,New Zealand
+2411,New Zealand
+2412,Switzerland
+2413,Brasil
+2414,New Zealand
+2415,USA
+2416,Sweden
+2417,Mexiko
+2418,Japan
+2419,United Kingdom
+2420,Mexiko
+2421,United Kingdom
+2422,Sweden
+2423,Sweden
+2424,United Kingdom
+2425,Japan
+2426,Australia
+2427,USA
+2428,Australia
+2429,Japan
+2430,New Zealand
+2431,Switzerland
+2432,USA
+2433,Japan
+2434,Australia
+2435,United Kingdom
+2436,Brasil
+2437,Sweden
+2438,USA
+2439,Australia
+2440,Australia
+2441,Canada
+2442,Canada
+2443,Sweden
+2444,Mexiko
+2445,USA
+2446,Brasil
+2447,Canada
+2448,USA
+2449,Switzerland
+2450,Mexiko
+2451,Brasil
+2452,Australia
+2453,Switzerland
+2454,United Kingdom
+2455,Japan
+2456,New Zealand
+2457,Australia
+2458,USA
+2459,Switzerland
+2460,USA
+2461,New Zealand
+2462,New Zealand
+2463,Canada
+2464,Canada
+2465,United Kingdom
+2466,United Kingdom
+2467,United Kingdom
+2468,Canada
+2469,United Kingdom
+2470,Mexiko
+2471,USA
+2472,United Kingdom
+2473,United Kingdom
+2474,USA
+2475,New Zealand
+2476,Japan
+2477,Mexiko
+2478,Japan
+2479,United Kingdom
+2480,Switzerland
+2481,Switzerland
+2482,United Kingdom
+2483,Australia
+2484,New Zealand
+2485,Mexiko
+2486,Canada
+2487,USA
+2488,Canada
+2489,Canada
+2490,Sweden
+2491,Canada
+2492,Sweden
+2493,Japan
+2494,Australia
+2495,Mexiko
+2496,Switzerland
+2497,United Kingdom
+2498,USA
+2499,United Kingdom
+2500,Switzerland
+2501,Sweden
+2502,Mexiko
+2503,Canada
+2504,United Kingdom
+2505,New Zealand
+2506,Australia
+2507,Sweden
+2508,Switzerland
+2509,Australia
+2510,Canada
+2511,Sweden
+2512,Australia
+2513,United Kingdom
+2514,Switzerland
+2515,Canada
+2516,New Zealand
+2517,Brasil
+2518,Canada
+2519,USA
+2520,Australia
+2521,Brasil
+2522,Sweden
+2523,Australia
+2524,Australia
+2525,Switzerland
+2526,USA
+2527,Mexiko
+2528,Australia
+2529,Switzerland
+2530,New Zealand
+2531,Switzerland
+2532,Brasil
+2533,Brasil
+2534,Canada
+2535,Japan
+2536,Japan
+2537,Australia
+2538,Sweden
+2539,United Kingdom
+2540,Mexiko
+2541,Brasil
+2542,Switzerland
+2543,Australia
+2544,New Zealand
+2545,United Kingdom
+2546,Canada
+2547,Switzerland
+2548,Australia
+2549,Japan
+2550,Switzerland
+2551,New Zealand
+2552,Canada
+2553,Mexiko
+2554,Switzerland
+2555,USA
+2556,Australia
+2557,Japan
+2558,Switzerland
+2559,Japan
+2560,New Zealand
+2561,Mexiko
+2562,United Kingdom
+2563,Australia
+2564,Australia
+2565,Australia
+2566,Brasil
+2567,USA
+2568,USA
+2569,Mexiko
+2570,Brasil
+2571,Canada
+2572,Brasil
+2573,United Kingdom
+2574,USA
+2575,Brasil
+2576,Sweden
+2577,Canada
+2578,Mexiko
+2579,United Kingdom
+2580,New Zealand
+2581,Australia
+2582,Canada
+2583,Canada
+2584,New Zealand
+2585,Sweden
+2586,United Kingdom
+2587,Mexiko
+2588,Sweden
+2589,Sweden
+2590,Canada
+2591,Brasil
+2592,United Kingdom
+2593,Canada
+2594,New Zealand
+2595,Sweden
+2596,United Kingdom
+2597,USA
+2598,United Kingdom
+2599,USA
+2600,New Zealand
+2601,Brasil
+2602,Mexiko
+2603,Japan
+2604,Japan
+2605,Mexiko
+2606,United Kingdom
+2607,Switzerland
+2608,New Zealand
+2609,Sweden
+2610,United Kingdom
+2611,USA
+2612,Switzerland
+2613,Japan
+2614,Australia
+2615,Australia
+2616,Mexiko
+2617,New Zealand
+2618,Canada
+2619,Mexiko
+2620,Japan
+2621,United Kingdom
+2622,Canada
+2623,New Zealand
+2624,Canada
+2625,United Kingdom
+2626,Australia
+2627,Canada
+2628,Switzerland
+2629,Sweden
+2630,Mexiko
+2631,Brasil
+2632,Australia
+2633,Australia
+2634,Australia
+2635,Switzerland
+2636,Mexiko
+2637,United Kingdom
+2638,Brasil
+2639,Mexiko
+2640,USA
+2641,USA
+2642,Japan
+2643,Mexiko
+2644,USA
+2645,Mexiko
+2646,Mexiko
+2647,Canada
+2648,Sweden
+2649,Canada
+2650,Mexiko
+2651,Brasil
+2652,Australia
+2653,Sweden
+2654,Canada
+2655,Brasil
+2656,Japan
+2657,Switzerland
+2658,Switzerland
+2659,USA
+2660,Japan
+2661,Japan
+2662,Switzerland
+2663,Brasil
+2664,Brasil
+2665,Brasil
+2666,Japan
+2667,Mexiko
+2668,Japan
+2669,New Zealand
+2670,New Zealand
+2671,Australia
+2672,Japan
+2673,United Kingdom
+2674,Switzerland
+2675,Brasil
+2676,Australia
+2677,Japan
+2678,USA
+2679,Mexiko
+2680,Mexiko
+2681,Japan
+2682,New Zealand
+2683,USA
+2684,Australia
+2685,Brasil
+2686,USA
+2687,Sweden
+2688,Canada
+2689,USA
+2690,Sweden
+2691,New Zealand
+2692,Australia
+2693,Brasil
+2694,Sweden
+2695,United Kingdom
+2696,USA
+2697,USA
+2698,Australia
+2699,USA
+2700,Japan
+2701,Brasil
+2702,Sweden
+2703,Brasil
+2704,Australia
+2705,Canada
+2706,United Kingdom
+2707,Japan
+2708,Brasil
+2709,Switzerland
+2710,Switzerland
+2711,Canada
+2712,Mexiko
+2713,Canada
+2714,New Zealand
+2715,Brasil
+2716,Switzerland
+2717,Canada
+2718,Canada
+2719,United Kingdom
+2720,Brasil
+2721,Switzerland
+2722,Australia
+2723,USA
+2724,USA
+2725,Switzerland
+2726,Australia
+2727,Japan
+2728,USA
+2729,Brasil
+2730,New Zealand
+2731,Brasil
+2732,Canada
+2733,USA
+2734,Canada
+2735,Australia
+2736,Brasil
+2737,Brasil
+2738,Brasil
+2739,New Zealand
+2740,Brasil
+2741,USA
+2742,United Kingdom
+2743,Japan
+2744,Switzerland
+2745,Sweden
+2746,Japan
+2747,Sweden
+2748,USA
+2749,New Zealand
+2750,Japan
+2751,USA
+2752,Sweden
+2753,Mexiko
+2754,USA
+2755,Switzerland
+2756,Japan
+2757,New Zealand
+2758,United Kingdom
+2759,United Kingdom
+2760,Mexiko
+2761,Canada
+2762,USA
+2763,Japan
+2764,Switzerland
+2765,New Zealand
+2766,Japan
+2767,Switzerland
+2768,Canada
+2769,Sweden
+2770,New Zealand
+2771,Australia
+2772,Canada
+2773,Brasil
+2774,United Kingdom
+2775,New Zealand
+2776,United Kingdom
+2777,Switzerland
+2778,Japan
+2779,USA
+2780,New Zealand
+2781,Japan
+2782,Switzerland
+2783,Japan
+2784,Switzerland
+2785,United Kingdom
+2786,Switzerland
+2787,Canada
+2788,New Zealand
+2789,Mexiko
+2790,Mexiko
+2791,Brasil
+2792,USA
+2793,New Zealand
+2794,New Zealand
+2795,Australia
+2796,Canada
+2797,USA
+2798,New Zealand
+2799,Sweden
+2800,Mexiko
+2801,United Kingdom
+2802,USA
+2803,Canada
+2804,Canada
+2805,Mexiko
+2806,Mexiko
+2807,Mexiko
+2808,Sweden
+2809,Japan
+2810,USA
+2811,Canada
+2812,United Kingdom
+2813,USA
+2814,Brasil
+2815,USA
+2816,USA
+2817,Brasil
+2818,Mexiko
+2819,USA
+2820,USA
+2821,Australia
+2822,USA
+2823,Brasil
+2824,United Kingdom
+2825,Brasil
+2826,United Kingdom
+2827,USA
+2828,Sweden
+2829,Australia
+2830,Japan
+2831,Switzerland
+2832,Australia
+2833,Mexiko
+2834,United Kingdom
+2835,Switzerland
+2836,USA
+2837,Sweden
+2838,Canada
+2839,United Kingdom
+2840,Japan
+2841,New Zealand
+2842,Australia
+2843,Brasil
+2844,Brasil
+2845,Mexiko
+2846,Australia
+2847,Mexiko
+2848,Australia
+2849,Japan
+2850,Canada
+2851,Japan
+2852,United Kingdom
+2853,United Kingdom
+2854,Brasil
+2855,Brasil
+2856,Canada
+2857,New Zealand
+2858,United Kingdom
+2859,Switzerland
+2860,Switzerland
+2861,Japan
+2862,Mexiko
+2863,Brasil
+2864,Brasil
+2865,Sweden
+2866,Japan
+2867,Mexiko
+2868,Sweden
+2869,New Zealand
+2870,New Zealand
+2871,Australia
+2872,Japan
+2873,Sweden
+2874,Canada
+2875,Canada
+2876,Australia
+2877,United Kingdom
+2878,Brasil
+2879,Australia
+2880,Switzerland
+2881,Sweden
+2882,New Zealand
+2883,Australia
+2884,Australia
+2885,Canada
+2886,Sweden
+2887,Mexiko
+2888,Canada
+2889,Australia
+2890,Canada
+2891,Brasil
+2892,Brasil
+2893,New Zealand
+2894,Switzerland
+2895,Sweden
+2896,Japan
+2897,United Kingdom
+2898,Japan
+2899,Mexiko
+2900,Mexiko
+2901,New Zealand
+2902,USA
+2903,Canada
+2904,Brasil
+2905,Australia
+2906,USA
+2907,United Kingdom
+2908,Switzerland
+2909,New Zealand
+2910,Canada
+2911,New Zealand
+2912,Australia
+2913,New Zealand
+2914,New Zealand
+2915,Mexiko
+2916,New Zealand
+2917,United Kingdom
+2918,Switzerland
+2919,United Kingdom
+2920,New Zealand
+2921,Japan
+2922,Mexiko
+2923,Canada
+2924,New Zealand
+2925,Australia
+2926,USA
+2927,Switzerland
+2928,Australia
+2929,USA
+2930,USA
+2931,Australia
+2932,Brasil
+2933,Canada
+2934,Switzerland
+2935,New Zealand
+2936,Switzerland
+2937,Mexiko
+2938,Canada
+2939,Canada
+2940,Australia
+2941,Canada
+2942,Brasil
+2943,United Kingdom
+2944,USA
+2945,Mexiko
+2946,USA
+2947,Sweden
+2948,Sweden
+2949,Japan
+2950,Sweden
+2951,Mexiko
+2952,Sweden
+2953,Japan
+2954,Sweden
+2955,USA
+2956,Brasil
+2957,Japan
+2958,Brasil
+2959,Sweden
+2960,Mexiko
+2961,USA
+2962,Canada
+2963,United Kingdom
+2964,Japan
+2965,Switzerland
+2966,Switzerland
+2967,Australia
+2968,Sweden
+2969,Canada
+2970,Australia
+2971,Australia
+2972,USA
+2973,New Zealand
+2974,Australia
+2975,Australia
+2976,USA
+2977,Mexiko
+2978,Canada
+2979,Canada
+2980,United Kingdom
+2981,New Zealand
+2982,Brasil
+2983,Australia
+2984,Japan
+2985,New Zealand
+2986,United Kingdom
+2987,Sweden
+2988,Sweden
+2989,Sweden
+2990,Canada
+2991,Canada
+2992,Japan
+2993,Switzerland
+2994,United Kingdom
+2995,Australia
+2996,Japan
+2997,USA
+2998,New Zealand
+2999,New Zealand
+3000,Canada
